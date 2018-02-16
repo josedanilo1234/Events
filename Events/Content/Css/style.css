@@ -1,0 +1,23 @@
+﻿header > nav > ul > li {
+    display: inline-block;
+    padding-right: 25px;
+}
+
+    header > nav > ul > li > a {
+        text-decoration: none;
+        font-size: 25px;
+        color: burlywood;
+    }
+
+        header > nav > ul > li > a:hover {
+            text-decoration: none;
+        }
+
+header > a {
+    font-size: 30px;
+    font-family: 'Bodoni MT';
+}
+
+    header > a:hover {
+        text-decoration: none;
+    }
