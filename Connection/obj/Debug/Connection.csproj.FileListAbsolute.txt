@@ -1,0 +1,6 @@
+C:\Users\jualv\Google Drive\Universidad\ProgramacionWEB\2018\App\Events\Connection\bin\Debug\Connection.dll
+C:\Users\jualv\Google Drive\Universidad\ProgramacionWEB\2018\App\Events\Connection\bin\Debug\Connection.pdb
+C:\Users\jualv\Google Drive\Universidad\ProgramacionWEB\2018\App\Events\Connection\bin\Debug\MySql.Data.dll
+C:\Users\jualv\Google Drive\Universidad\ProgramacionWEB\2018\App\Events\Connection\obj\Debug\Connection.csprojResolveAssemblyReference.cache
+C:\Users\jualv\Google Drive\Universidad\ProgramacionWEB\2018\App\Events\Connection\obj\Debug\Connection.dll
+C:\Users\jualv\Google Drive\Universidad\ProgramacionWEB\2018\App\Events\Connection\obj\Debug\Connection.pdb
